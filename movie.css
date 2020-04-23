@@ -2,3 +2,23 @@ html {
     background-image: url("images/background.png");
     background-repeat: repeat;
 }
+#containerA{
+    background-image: url("images/banner.png");
+    padding: 20px;
+}
+h1{
+    text-align: center;
+
+}
+
+#maincontainer{
+    background-color: forestgreen;
+    justify-content: center;
+    padding: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#column{
+    border: 20px solid greenyellow;
+    background-color: transparent;
+}
