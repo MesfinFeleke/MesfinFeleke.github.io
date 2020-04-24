@@ -10,15 +10,24 @@ h1{
     text-align: center;
 
 }
-
-#maincontainer{
-    background-color: forestgreen;
-    justify-content: center;
-    padding: 50px;
+.row {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-image: url("images/bannerbg.png");
     margin-left: 200px;
     margin-right: 200px;
 }
-#column{
-    border: 20px solid greenyellow;
-    background-color: transparent;
+
+.item1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.grid-item1-img {
+    object-fit: cover;
+
+}
+.grid-item1-content{
+    font-size: 400%;
+    color: red;
 }
