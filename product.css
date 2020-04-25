@@ -49,7 +49,10 @@ button:hover {
 
 /* Add padding to containers */
 .container {
-    padding: 16px;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+
 }
 
 /* Change styles for span and cancel button on extra small screens */
