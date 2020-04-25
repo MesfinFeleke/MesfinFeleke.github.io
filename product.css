@@ -36,10 +36,21 @@ input[type=text], input[type=password] {
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
-.button {
-    background-color: white;
-    color: black;
-    border: 2px solid #4CAF50; /* Green */
+
+.button1 {
+   font-color: #062c33;
+    border: 2px solid #062c33;
+    border-radius: 12px;
+}
+.button2 {
+    color: red;
+    border: 2px solid red;
+    border-radius: 12px;
+}
+.button3 {
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 12px;
 }
 
 /* Add a hover effect for buttons */
