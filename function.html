@@ -64,7 +64,6 @@
     // Define a function sum() and a function multiply() that sums and multiplies (respectively)
     // all the numbers in an array of numbers. For example, sum([1,2,3,4]) should return 10,
     // and multiply([1,2,3,4]) should return 24.
-
     function sum(arr) {
         let sum = 0;
         for (let i = 0; i < arr.length; i++) {
@@ -72,7 +71,6 @@
         }
         return sum;
     }
-
     console.log('------------------------------');
     console.log("Expected output of sum([1, 2, 3, 4]) is 10  " + myFunctionTest(10, sum([1, 2, 3, 4])));
     console.log("Expected output of sum([2, 2, 2, 2]) is 8 " + myFunctionTest(8, sum([2, 2, 2, 2])));
@@ -87,7 +85,6 @@
         }
         return product;
     }
-
     console.log('------------------------------');
     console.log("Expected output of multiply([1, 2, 3, 4]) is 24  " + myFunctionTest(24, multiply([1, 2, 3, 4])));
     console.log("Expected output of multiply([4, 2, 8, 9]) is 576 " + myFunctionTest(576, multiply([4, 2, 8, 9])));
@@ -96,16 +93,21 @@
 
     //Define a function reverse() that computes the reversal of a string.
     // For example, reverse("jag testar") should return the string "ratset gaj"
-    
 
-
-
-
-
-
-
+    function reverse(str){
+        let result = "";
+        for(let index = str.length ; index >= 0; index--){
+            result += str.charAt(index);
+        }
+        return result;
+     }
+     console.log(reverse('mesfin'));
 
     console.log('------------------------------');
+    console.log("Expected output of reverse('mesfin') is nifsem  " + myFunctionTest('nifsem', reverse('mesfin')));
+    console.log("Expected output of reverse('banana') is ananab " + myFunctionTest('ananab', reverse('banana')));
+    console.log("Expected output of reverse('home') is emoh  " + myFunctionTest('emoh', reverse('home')));
+    console.log("Expected output of reverse('computer') is retupmoc  " + myFunctionTest('retupmoc', reverse('computer')));
 
 </script>
 </body>
