@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title> Simple functions</title>
+    <h3> please go to the console.log to see the output</h3>
+
+
+       <strong> // Define a function max() that takes two numbers as arguments and returns the largest of them<br></strong>
+        function maxNumber(inputOne, inputTwo) {<br>
+        if (inputOne > inputTwo) {<br>
+        return inputOne;<br>
+        } else {<br>
+        return inputTwo;<br>
+        }<br>
+        }<br>
+        console.log(maxNumber(889, 90));<br>
+    <br>
+    <strong>//Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.</strong>
+        function maxOfThree(inputOne, inputTwo, inputThree) {<br>
+        let numbers = [inputOne, inputTwo, inputThree];<br>
+        numbers.sort();<br>
+        let result = console.log(numbers[2]);<br>
+        return result;<br>
+        }<br>
+        console.log(maxOfThree(99, 88, 7));<br>
+    <br>
+        <strong>  //  Write a function isVowel() that takes a character (i.e. a string of length 1)
+            and returns true if it is a vowel, false otherwise.</strong>
+
+        function isVowel(char){<br>
+        let isVowelLetter = false;<br>
+        if((char === 'a') |(char =='e')| (char === 'i') | (char ==='o') |(char === 'u')){<br>
+        isVowelLetter = true ;<br>
+        }<br>
+        return isVowelLetter;<br>
+        }<br>
+        console.log(isVowel('k'));<br>
+    <br>
+
+       <strong> // Define a function sum() and a function multiply() that sums and multiplies (respectively)<br>
+        // all the numbers in an array of numbers. For example, sum([1,2,3,4]) should return 10,<br>
+        // and multiply([1,2,3,4]) should return 24.</strong><br>
+
+        function sum(arr){<br>
+        let sum = 0;<br>
+        for( let i = 0; i<arr.length \; i++){<br>
+        sum += arr[i];<br>
+        }<br>
+        return sum;<br>
+        }<br>
+        console.log(sum([1,2,3,4]));<br>
+
+    <br>
+       <strong>// multiply([1,2,3,4]) should return 24.</strong> <br>
+        function multiply(arr){<br>
+        let product = 1;<br>
+        for( let i = 0; i<arr.length; i++){<br>
+        product *= arr[i];<br>
+        }<br>
+        return product;<br>
+        }<br>
+        console.log(multiply([1,2,3,4]));<br>
+    <br>
+       <strong> //Define a function reverse() that computes the reversal of a string.
+        // For example, reverse("jag testar") should return the string "ratset gaj" </strong>
+
+
+
+</head>
+<body>
+<script>
+    // Define a function max() that takes two numbers as arguments and returns the largest of them
+    function maxNumber(inputOne, inputTwo) {
+        if (inputOne > inputTwo) {
+            return inputOne;
+        } else {
+            return inputTwo;
+        }
+    }
+    //  let result =  function maxNumber(7,9) ;
+    console.log(maxNumber(889, 90));
+
+    //Define a function maxOfThree() that takes three numbers as arguments and returns the largest of them.
+    function maxOfThree(inputOne, inputTwo, inputThree) {
+        let numbers = [inputOne, inputTwo, inputThree];
+        numbers.sort();
+        let result = console.log(numbers[2]);
+        return result;
+    }
+    console.log(maxOfThree(99, 88, 7));
+
+  //  Write a function isVowel() that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
+
+   function isVowel(char){
+       let isVowelLetter = false;
+       if((char === 'a') |(char =='e')| (char === 'i') | (char ==='o') |(char === 'u')){
+           isVowelLetter = true ;
+       }
+       return isVowelLetter;
+    }
+    console.log(isVowel('k'));
+
+
+// Define a function sum() and a function multiply() that sums and multiplies (respectively)
+    // all the numbers in an array of numbers. For example, sum([1,2,3,4]) should return 10,
+    // and multiply([1,2,3,4]) should return 24.
+
+    function sum(arr){
+        let sum = 0;
+        for( let i = 0; i<arr.length; i++){
+            sum += arr[i];
+        }
+        return sum;
+    }
+   console.log(sum([1,2,3,4]));
+
+
+     and multiply([1,2,3,4]) should return 24.
+    function multiply(arr){
+        let product = 1;
+        for( let i = 0; i<arr.length; i++){
+            product *= arr[i];
+        }
+        return product;
+    }
+    console.log(multiply([1,2,3,4]));
+
+//Define a function reverse() that computes the reversal of a string.
+    // For example, reverse("jag testar") should return the string "ratset gaj"
+
+
+</script>
+</body>
+</html>
