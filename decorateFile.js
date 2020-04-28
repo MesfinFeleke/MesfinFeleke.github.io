@@ -9,4 +9,4 @@ let sum = function(xs) {
 
 
 
-
+alert("Hello, world!");
