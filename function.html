@@ -110,22 +110,40 @@
     console.log("Expected output of reverse('computer') is retupmoc  " + myFunctionTest('retupmoc', reverse('computer')));
 
     //Write a function findLongestWord() that takes an array of words and returns the length of the longest one.
+
+
+    let findLongestWord = function(array) {
+        let elements = array.length;
+        let count = 0;
+        for (let i = 0; i < elements; i++) {
+            if (array[i].length > count)
+                count = array[i].length;
+        }
+        return count;
+    }
+    console.log(findLongestWord(['car','mango', 'computer','desktop computer']))
+
   //  Write a function filterLongWords() that takes an array of words and an integer i and returns the array of words that are longer than i.
+
+
+    let filterLongWords = function(array, int){
+        let length = array.length;
+        let longestWords = [];
+        for (let i = 0; i < length; i++) {
+            if (array[i].length > int) {
+                longestWords[longestWords.length] = array[i];
+            }
+        }
+        return longestWords;
+    }
+    console.log(filterLongWords(['car','mango', 'computer','desktop computer']))
+
+
 
      //   Modify the jsfiddle on the map/filter/reduce slide as follows:
   //  a) multiply each element by 10;
    // b) return array with all elements equal to 3;
    // c) return the product of all elements;
-
-    if ('false') {
-        alert('true');
-    } else {
-        alert('false');
-    }
-
-
-
-
 
 </script>
 </body>
