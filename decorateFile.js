@@ -9,4 +9,11 @@ let sum = function(xs) {
 
 
 
-alert("Hello, world!");
+function showAlert(){
+    alert("Hello, world!");
+}
+
+function changeFont(){
+    const clickMe = document.getElementById("textID");
+    clickMe.style.fontSize = "24pt";
+}
