@@ -17,3 +17,6 @@ function changeFont(){
     const clickMe = document.getElementById("textID");
     clickMe.style.fontSize = "24pt";
 }
+
+
+
