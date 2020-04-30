@@ -1,4 +1,7 @@
 
+(function()
+{
+    "use strict";
 // map filter reduce
 
 xs= [3,5,6];
@@ -20,3 +23,4 @@ function changeFont(){
 
 
 
+})();
