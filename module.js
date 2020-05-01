@@ -1,23 +1,33 @@
 
 function showAnswer1() {
     const textButton1 = document.getElementById("text1");
-    textButton1.value = "still working on it ";
+    textButton1.value = " x = undefined \n" +
+        "a= undefined \n" +
+        "b= undefined \n";
 }
 function showAnswer2() {
     const textButton2 = document.getElementById("text2");
-    textButton2.value = "still working on it ";
+    textButton2.value = "a local scope is local to the function  that means variables declared local " +
+        "to the function have local scope because they can only be accessed from within the function " +
+        "alternatively a variable declared outside a function becomes global all the functions on the web" +
+        "page can access it.";
 }
 function showAnswer3() {
     const textButton3 = document.getElementById("text3");
-    textButton3.value = "still working on it ";
+    textButton3.value = "Do statements in Scope A have access to variables in Scope B and C?  No \n" +
+        "Do statements in Scope B have access to variables in Scope A?  Yes\n" +
+        "Do statements in Scope B have access to variables in Scope C?   No\n" +
+        "Do statements in Scope C have access to variables in Scope A?  Yes\n" +
+        "Do statements in Scope C have access to variables in Scope B?  Yes\n";
 }
 function showAnswer4() {
     const textButton4 = document.getElementById("text4");
-    textButton4.value = "still working on it ";
+    textButton4.value = " 81 \n" +
+        "25 ";
 }
 function showAnswer5() {
     const textButton5 = document.getElementById("text5");
-    textButton5.value = "still working on it ";
+    textButton5.value = "10 ";
 }
 function showAnswer6() {
     const textButton6 = document.getElementById("text6");

@@ -1,3 +1,5 @@
+
+/*
 let arrayx = [3, 4, 5, 6];
 console.log(arrayx.reverse());
 
@@ -99,17 +101,6 @@ console.log(deepEqual(obj, {here: {is: "an"}, object: 2}));
 // → true
 
 
-
-
-
-
-
-
-
-
-
-
-
 function init() {
     const name = "Mozilla";
 
@@ -153,7 +144,6 @@ function ma() {
 ma();
 console.log("x7 is:" + x); // 10
 
-/*
 x1 is:undefined
 scope.js:28 x2 is:20
 scope.js:32 x3 is:30
@@ -161,10 +151,10 @@ scope.js:34 x4 is:30
 scope.js:38 x5 is:50
 scope.js:41 x6 is:40
 scope.js:45 x7 is:10
-*/
 
 
-//
+
+
 
 function f() {
     var a = 1, b = 20, c;
@@ -184,3 +174,52 @@ function f() {
 }
 
 f();
+
+
+
+
+x = 1;
+var a = 5;
+var b = 10;
+
+var c = function (a, b, c) {
+    document.write(x);
+    document.write(x);
+    var f = function (a, b, c) {
+        b = a;
+        document.write(b);
+        b = c;
+        var x = 5;
+    }
+    f(a,b,c);
+    document.write(b);
+    var x = 10;
+}
+c(8,9,0);
+document.write(b);
+document.write(x);
+}
+
+
+
+var x = 9 ;
+function myFunction() {
+    return x * x;
+}
+document.write(myFunction());
+x= 5;
+document.write(myFunction());
+
+*/
+
+//var foo =1 ;
+var x= 10;
+function bar(){
+  //  alert(!10);
+
+    if(!x){
+        var x =10 ;
+    }
+    alert(x);
+}
+bar();
