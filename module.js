@@ -2,7 +2,7 @@
 function showAnswer() {
    // const AnswerButton = document.getElementById("answer");
     const textButton = document.getElementById("text");
-    textButton.value = " I am still waiting for solutions ...."
+    textButton.value = " I am still working on it ...."
 
 }
 function clearText() {
