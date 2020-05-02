@@ -19,3 +19,6 @@ var c = function (a, b, c) {
 c(8,9,0);
 document.write(b);
 document.write(x);
+
+var emp1 = {};
+emp1.
