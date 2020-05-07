@@ -22,8 +22,8 @@
 
             it('- withdraw', ()=>{
                 account.deposit(100);
-                account.withdraw(40)
-                assert.equal(60, account.getBalance());
+                account.withdraw(50);
+                assert.equal(50, account.getBalance());
 
                 try {
                     account.withdraw(-10);
@@ -32,7 +32,7 @@
                 }
 
                 try {
-                    account.withdraw(100)
+                    account.withdraw(100);
                 } catch (error) {
                     assert.equal("Insufficient funds please add money", error.message);
                 }
