@@ -2,31 +2,31 @@
     "use strict";
 
     describe('Class Account', function() {
-        describe('#Account classes', function() {
+        describe(' * Account classes', function() {
             let number = "12345";
             let account;
             beforeEach(function() {
                 account = new Account(number);
             });
-            it('getNumber', ()=>{
+            it('- getNumber', ()=>{
                 assert.equal(number, account.getNumber());
             });
-            it('getBalance', ()=>{
+            it('- getBalance', ()=>{
                 assert.equal(0.0, account.getBalance());
             });
 
-            it('deposit', ()=>{
+            it('- deposit', ()=>{
                 account.deposit(100);
                 assert.equal(100, account.getBalance());
             });
 
-            it('withdraw', ()=>{
+            it('- withdraw', ()=>{
                 account.deposit(100);
-                account.withdraw(50)
-                assert.equal(50, account.getBalance());
+                account.withdraw(40)
+                assert.equal(60, account.getBalance());
 
                 try {
-                    account.withdraw(-10)
+                    account.withdraw(-10);
                 } catch (error) {
                     assert.equal(" the Withdraw amount has to be greater than zero", error.message);
                 }
@@ -38,16 +38,16 @@
                 }
             });
 
-            it('toString', ()=>{
+            it('- toString', ()=>{
                 account.deposit(100);
                 assert.equal(`Account ${number}: balance 100`, account.toString());
             });
-            it('endOfMonth', ()=>{
+            it('- endOfMonth', ()=>{
                 assert.equal("", account.endOfMonth());
             });
         });
 
-        describe('#SavingAccount class', function() {
+        describe(' * SavingAccount', function() {
             let account;
             let ist = 25;
             let balance = 1500;
@@ -55,33 +55,33 @@
                 account = new SavingAccount("12345", ist);
                 account.deposit(balance);
             });
-            it('Getter interest', ()=>{
+            it('- Getter interest', ()=>{
                 assert.equal(ist, account.interest);
             });
-            it('Setter interest', ()=>{
+            it('- Setter interest', ()=>{
                 account.interest = 35;
                 assert.equal(35, account.interest);
             });
-            it('addInterest', ()=>{
+            it('- addInterest', ()=>{
 
                 account.addInterest();
                 assert.equal(balance * ist / 100, account.interest);
             });
 
-            it('toString', ()=>{
+            it('- toString', ()=>{
                 assert.equal("Saving account " + account.getNumber()
                     + ": balance " + account.getBalance()
                     + " Interest: " + account.interest,
                     account.toString());
             });
-            it('endOfMonth', ()=>{
+            it('- endOfMonth', ()=>{
                 ist = account.getBalance() * account.interest / 100
                 assert.equal(`Interest added SavingsAccount : balance: ${account._balance} interest: ${ist}`, account.endOfMonth());
             });
 
         });
 
-        describe('#CheckingAccount class', function() {
+        describe('* CheckingAccount class', function() {
             let account;
             let overdraft = 50;
             let balance = 1500;
@@ -89,14 +89,14 @@
                 account = new CheckingAccount("12345", overdraft);
                 account.deposit(balance);
             });
-            it('Getter overdraft', ()=>{
+            it('- Getter overdraft', ()=>{
                 assert.equal(overdraft, account.overdraft);
             });
-            it('Setter overdraft', ()=>{
+            it('- Setter overdraft', ()=>{
                 account.overdraft = 100;
                 assert.equal(100, account.overdraft);
             });
-            it('withdraw', ()=>{
+            it('- withdraw', ()=>{
                 account.withdraw(1500);
                 try {
                     account.withdraw(100);
@@ -105,39 +105,39 @@
                 }
             });
 
-            it('toString', ()=>{
+            it('- toString', ()=>{
                 assert.equal("Checking account " + account.getNumber()
                     + ": balance " + account.getBalance()
                     +", overdraft " + account.overdraft,
                     account.toString());
             });
-            it('endOfMonth', ()=>{
+            it('- endOfMonth', ()=>{
                 account.withdraw(1520);
                 assert.equal(`Warning, low balance CheckingAccount 3: balance: ${account._balance} overdraft limit: ${account._overdraft}`, account.endOfMonth());
             });
 
         });
 
-        describe('#Bank class', function() {
+        describe('* Bank class', function() {
             let bank;
             beforeEach(function() {
                 bank = new Bank();
             });
-            it('addAccount', ()=>{
+            it('- addAccount', ()=>{
                 const accountNumber = bank.addAccount();
                 console.log(bank.accounts)
                 assert.equal(bank.accounts[0].getNumber(), accountNumber);
             });
-            it('addSavingsAccount', ()=>{
+            it('- addSavingsAccount', ()=>{
                 const accountNumber = bank.addSavingsAccount(25);
                 assert.equal(bank.accounts[0].getNumber(), accountNumber);
             });
-            it('addCheckingAccount', ()=>{
+            it('- addCheckingAccount', ()=>{
                 const accountNumber = bank.addCheckingAccount(50);
                 assert.equal(bank.accounts[0].getNumber(), accountNumber);
             });
 
-            it('accountReport', ()=>{
+            it('- accountReport', ()=>{
                 bank.addAccount();
                 bank.addSavingsAccount(25);
                 bank.addCheckingAccount(50);
@@ -147,7 +147,7 @@
                 }
                 assert.equal(expected, bank.accountReport());
             });
-            it('endOfMonth', ()=>{
+            it('- endOfMonth', ()=>{
 
                 bank.addAccount();
                 assert.equal("", bank.accounts[0].endOfMonth());
