@@ -1,11 +1,11 @@
 
-/*jshint esversion: 6 */
 
-(function () {
+
+
     "use strict";
 
 
-    class SavingsAccount extends Account {
+    class SavingAccount extends Account {
 
 
         constructor(number, interest) {
@@ -33,12 +33,10 @@
             return `Interest added SavingsAccount 2: balance: ${this._balance} interest: ${this.interest}`;
         }
 
-
-
     }
 
 
-}());
+
 
 
 
