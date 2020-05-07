@@ -1,8 +1,8 @@
 {
     "use strict";
 
-    describe('Class Inheritance', function() {
-        describe('#Account class', function() {
+    describe('Class Account', function() {
+        describe('#Account classes', function() {
             let number = "12345";
             let account;
             beforeEach(function() {
@@ -28,13 +28,13 @@
                 try {
                     account.withdraw(-10)
                 } catch (error) {
-                    assert.equal("Withdraw amount has to be greater than zero", error.message);
+                    assert.equal(" the Withdraw amount has to be greater than zero", error.message);
                 }
 
                 try {
                     account.withdraw(100)
                 } catch (error) {
-                    assert.equal("Insufficient funds", error.message);
+                    assert.equal("Insufficient funds please add money", error.message);
                 }
             });
 
@@ -76,7 +76,7 @@
             });
             it('endOfMonth', ()=>{
                 ist = account.getBalance() * account.interest / 100
-                assert.equal(`Interest added SavingsAccount 2: balance: ${account._balance} interest: ${ist}`, account.endOfMonth());
+                assert.equal(`Interest added SavingsAccount : balance: ${account._balance} interest: ${ist}`, account.endOfMonth());
             });
 
         });
