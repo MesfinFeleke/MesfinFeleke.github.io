@@ -1,4 +1,6 @@
 
+/*jshint esversion: 6 */
+
 "use strict";
 
 /**
@@ -6,7 +8,7 @@
  *
  * Provides the basic functionality that every account should have
  */
-class Account {
+class Account{
     /**
      * Constructor for creating a new Account object
      *
