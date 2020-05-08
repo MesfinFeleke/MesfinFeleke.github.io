@@ -13,7 +13,7 @@ $(document).ready(function(){
     /** Finish the maze when mouse enter to end */
     $('#end').mouseover(function(){
         if(status === 'start'){
-            $('#status').text('You win! :]');
+            $('#status').text('You win!');
             status = 'end';
         }
     });
@@ -38,7 +38,7 @@ $(document).ready(function(){
 
     /** Make boundry red and show text to notify that user lost */
     function lost(){
-        $('#status').text('Oops !, you lost. :[');
+        $('#status').text('Oops !, you lost. ');
         $('.boundary').addClass('youlose');
         status = 'lost';
     }
