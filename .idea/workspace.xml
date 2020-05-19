@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
+            <state relative-caret-position="127">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -69,7 +69,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -105,8 +105,8 @@
         <option value="$PROJECT_DIR$/responsiveDesign/css/grid.css" />
         <option value="$PROJECT_DIR$/index/index.js" />
         <option value="$PROJECT_DIR$/index/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -133,6 +133,11 @@
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +193,7 @@
       <workItem from="1587511613305" duration="3902000" />
       <workItem from="1589693551624" duration="2233000" />
       <workItem from="1589722156084" duration="11000" />
-      <workItem from="1589724486637" duration="21257000" />
+      <workItem from="1589724486637" duration="21663000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -222,7 +227,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27403000" />
+    <option name="totallyTimeSpent" value="27809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1274" height="732" extended-state="0" />
@@ -380,6 +385,13 @@
         <state relative-caret-position="-1237" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -389,15 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="127">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
         </state>
       </provider>
     </entry>
