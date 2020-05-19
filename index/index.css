@@ -1,0 +1,23 @@
+
+#mainContainer{
+    display:inline-flex;
+    margin-left: 100px;
+}
+
+#june{
+    margin-left: 300px;
+}
+
+.vl {
+    border-left: 6px solid green;
+    height: 1000px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+#may{
+    background-color: #c8cbcf;
+
+}
+
