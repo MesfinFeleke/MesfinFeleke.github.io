@@ -1,0 +1,42 @@
+
+body{
+    font-family: "Lucida Sans Unicode", "Helvetica" ,"Arial" ,sans-serif;
+    background-color: white;
+    color: #404040;
+    overflow: auto;
+}
+
+h3{
+    color: #A4A400;
+    background-color: whitesmoke;
+    font-weight: bold;
+    font-size: 22pt;
+    text-decoration: underline;
+    max-width: 80%;
+}
+
+#mainTitle{
+   justify-content: center;
+}
+
+section{
+    max-width: 80%;
+}
+img{
+    margin-left: 25px;
+}
+.comments{
+    background-color: #FFFFA8 ;
+    margin-left: 25px;
+    width: 80%;
+
+}
+
+nav{
+    position: fixed;
+    top:50px;
+    right:50px;
+    color: white;
+    background-color: #fff3cd;
+
+}
