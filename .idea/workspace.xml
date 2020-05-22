@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="" />
+    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/May_WAP/layout/resources/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/layout/resources/layout.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="246">
+              <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -244,7 +246,7 @@
       <workItem from="1589693551624" duration="2233000" />
       <workItem from="1589722156084" duration="11000" />
       <workItem from="1589724486637" duration="40829000" />
-      <workItem from="1589957764112" duration="15270000" />
+      <workItem from="1589957764112" duration="15523000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -278,7 +280,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62245000" />
+    <option name="totallyTimeSpent" value="62498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1274" height="732" extended-state="0" />
@@ -514,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="246">
+          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
         </state>
       </provider>
     </entry>
