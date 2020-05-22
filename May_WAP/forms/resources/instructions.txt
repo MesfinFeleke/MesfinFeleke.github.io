@@ -1,0 +1,16 @@
+Personal details
+Billing Address
+Shipping Address
+Payment Info
+Checkbox for agreement (and some agreement text).
+
+Use correct HTML 5 input types, HTML 5 validations
+Make fields like zip code, ssn, email etc. required.
+Make use of new html form elements like date, tel where applicable.
+
+
+Make use of fieldset and legends for grouping form controls.
+
+Suggestion:
+First finish html and validation part and start with styling
+Style it  your way.
