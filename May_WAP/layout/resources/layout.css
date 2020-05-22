@@ -70,9 +70,10 @@ h1{
 
 nav{
     position: fixed;
-    top:50px;
+    top:20px;
     right:50px;
     color: white;
     background-color: #fff3cd;
+    font-size: 20pt;
 
 }
