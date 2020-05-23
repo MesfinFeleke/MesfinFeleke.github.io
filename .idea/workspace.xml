@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/May_WAP/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/layout/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/layout/resources/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/layout/resources/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+            <state relative-caret-position="645">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -175,19 +170,6 @@
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -244,7 +226,7 @@
       <workItem from="1589693551624" duration="2233000" />
       <workItem from="1589722156084" duration="11000" />
       <workItem from="1589724486637" duration="40829000" />
-      <workItem from="1589957764112" duration="27884000" />
+      <workItem from="1589957764112" duration="28191000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -278,11 +260,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74859000" />
+    <option name="totallyTimeSpent" value="75166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1274" height="732" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2849026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -521,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="90" column="19" selection-start-line="90" selection-start-column="19" selection-end-line="90" selection-end-column="19" />
+        <state relative-caret-position="645">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
         </state>
       </provider>
     </entry>
