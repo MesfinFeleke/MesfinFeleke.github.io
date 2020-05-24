@@ -34,11 +34,22 @@ h3{
 
 p { font-family: 'DejaVu Serif', Georgia, "Times New Roman", Times, serif; color: white; }
 
-nav{
+div.backtohome{
     position: fixed;
     top:50px;
     right:50px;
-    color: white;
-    background-color: #fff3cd;
+    background-color: green;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover, a:active {
+    background-color: red;
 }

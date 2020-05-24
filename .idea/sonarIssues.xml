@@ -8,12 +8,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/May_WAP/about/about.css">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/May_WAP/about/about.html">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/May_WAP/forms/forms.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
           <value>
             <set />
           </value>
@@ -63,7 +73,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/aboutme.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/forms/form.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/forms/login.html">
           <value>
             <set />
           </value>
