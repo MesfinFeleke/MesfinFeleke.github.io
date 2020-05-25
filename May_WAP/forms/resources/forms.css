@@ -51,6 +51,9 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: #45a049;
 }
+input[type=text]:focus ,input[type=password]:focus {
+    background-color: #A2B964;
+}
 
 div {
     border-radius: 5px;
