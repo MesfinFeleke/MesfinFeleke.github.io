@@ -86,3 +86,23 @@ div.fixed {
     color: white;
 }
 
+#syllabus caption{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: forestgreen;
+    color: white;
+}
+
+#syllabus tr:hover{
+    background-color: forestgreen;
+}
+#syllabus td, #syllabus th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#syllabus {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}

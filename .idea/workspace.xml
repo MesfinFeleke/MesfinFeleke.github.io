@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
     </list>
@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="133" column="36" selection-start-line="133" selection-start-column="36" selection-end-line="133" selection-end-column="36" />
+            <state relative-caret-position="257">
+              <caret line="120" column="69" lean-forward="true" selection-start-line="120" selection-start-column="69" selection-end-line="120" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -31,17 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/recipes/recipes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="479">
+              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -58,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="870">
               <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
             </state>
           </provider>
@@ -67,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
+            <state relative-caret-position="570">
               <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/about/about.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
+            <state relative-caret-position="1125">
               <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="450">
               <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
@@ -94,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="356">
+              <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -150,15 +150,15 @@
         <option value="$PROJECT_DIR$/May_WAP/forms/resources/forms.css" />
         <option value="$PROJECT_DIR$/May_WAP/layout/resources/layout.css" />
         <option value="$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css" />
-        <option value="$PROJECT_DIR$/index/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/about/about.css" />
         <option value="$PROJECT_DIR$/May_WAP/about/about.html" />
+        <option value="$PROJECT_DIR$/index/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1289" />
+    <option name="x" value="1309" />
     <option name="y" value="23" />
     <option name="width" value="1274" />
     <option name="height" value="699" />
@@ -170,7 +170,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,6 +191,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +244,8 @@
       <workItem from="1589693551624" duration="2233000" />
       <workItem from="1589722156084" duration="11000" />
       <workItem from="1589724486637" duration="40829000" />
-      <workItem from="1589957764112" duration="41311000" />
+      <workItem from="1589957764112" duration="41410000" />
+      <workItem from="1590368663149" duration="1649000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -278,12 +279,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88286000" />
+    <option name="totallyTimeSpent" value="90034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1289" y="23" width="1274" height="699" extended-state="0" />
+    <frame x="1309" y="23" width="1274" height="699" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2849026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28896105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -307,7 +309,6 @@
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32973805" />
       <window_info anchor="bottom" id="SonarQube" order="14" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
-      <window_info anchor="right" id="Preview" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,6 +318,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Preview" order="9" weight="0.32954547" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,6 +478,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/recipes/recipes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/forms/forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -483,10 +492,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/recipes/recipes.html">
+    <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="870">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -497,52 +527,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/layout/resources/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        <state relative-caret-position="479">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="356">
+          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="133" column="36" selection-start-line="133" selection-start-column="36" selection-end-line="133" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="257">
+          <caret line="120" column="69" lean-forward="true" selection-start-line="120" selection-start-column="69" selection-end-line="120" selection-end-column="69" />
         </state>
       </provider>
     </entry>
