@@ -2,8 +2,115 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/May_WAP/javaBasics/javaBasics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/tip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-github-site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-github-site.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6013a00b362253c64368d6eebc50ea2131754e2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/forms/resources/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/forms/resources/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bubble/bubble.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/Bubble/bubble.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/artifacts/CleanScreen_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/artifacts/CleanScreen_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/CleanScreen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/CleanScreen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/web/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/web/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/web/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/web/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CleanScreen/web/screen.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/CleanScreen/web/screen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/jq.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/jq.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/jq.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/jq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/maze/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/maze/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/maze/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/maze/maze.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/maze/mazefiles/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/maze/mazefiles/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/maze/mazefiles/maze.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/maze/mazefiles/maze.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/practice.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/practice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/practice/jquery-3.5.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/practice/jquery-3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JQuery/practice/jquery-3.5.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/JQuery/practice/jquery-3.5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/about/aboutme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/about/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/Account.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/Account.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/Bank.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/Bank.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/CheckingAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/CheckingAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/SavingsAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/SavingsAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/mocha.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/mocha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/testMocha.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/account/testMocha.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ascII/ascii.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/ascII/ascii.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ascII/asciianimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/ascII/asciianimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ascII/asciihtml.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/ascII/asciihtml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/bootstrap/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/bootstrapFrameWork.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/bootstrap/bootstrapFrameWork.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/class.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/class/class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorate/HomeworkFileLDecorate" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/decorate/HomeworkFileLDecorate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorate/decorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/decorate/decorate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorate/decorateFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/decorate/decorateFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorate/decoratemytext.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/decorate/decoratemytext.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/form.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/forms/form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/forms/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/banana.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/banana.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/fruit.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/fruit.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/grapes.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/grapes.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/ny.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/ny.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/oranges.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/oranges.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruits/papaya.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/fruits/papaya.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/function.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/functions/function.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/mapANDfilter.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/functions/mapANDfilter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dog.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/dog.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dogblack.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/dogblack.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/me.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/me.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w3c-css.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/w3c-css.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w3c-html.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/w3c-html.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/w3c-xhtml.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/images/w3c-xhtml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/inheritance.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/inheritance/inheritance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/inherittance.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/inheritance/inherittance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/layout/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/module.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/module/module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/module.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/module/module.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/module.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/module/module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movie.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movie.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/b6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/b6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/bannerbg.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/bannerbg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/critic.gif" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/critic.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/decorated.gif" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/decorated.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/fresh.gif" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/fresh.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/rbg.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/rbg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/rotten.gif" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/rotten.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/rottenbig.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/rottenbig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieLayout/movieimages/tmnt.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/movieLayout/movieimages/tmnt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/product/product.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/product/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/css/flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/css/flexbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/css/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/flexbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsiveDesign/responsivePageDesign.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/responsiveDesign/responsivePageDesign.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scope/scope.html" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/scope/scope.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scope/scope.js" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/scope/scope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q1.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q10.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q11.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q2.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q3.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q4.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q5.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q6.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q7.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q8.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screeshot/Q9.png" beforeDir="false" afterPath="$PROJECT_DIR$/April_WAP/screeshot/Q9.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,74 +123,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="122" column="16" lean-forward="true" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
+            <state relative-caret-position="117">
+              <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forms/login.html">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/javaBasics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="90">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May_WAP/forms/forms.html">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/tipCalculator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="345">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/forms/form.css">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/tip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="1" lean-forward="true" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="405">
+              <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
+        <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="210">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May_WAP/about/about.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="720">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,8 +194,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+            <state relative-caret-position="780">
+              <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -111,8 +214,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -147,15 +251,22 @@
         <option value="$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css" />
         <option value="$PROJECT_DIR$/May_WAP/about/about.css" />
         <option value="$PROJECT_DIR$/May_WAP/about/about.html" />
-        <option value="$PROJECT_DIR$/index/index.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/forms/forms.html" />
         <option value="$PROJECT_DIR$/May_WAP/forms/resources/forms.css" />
+        <option value="$PROJECT_DIR$/index/index.css" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics.html" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.css" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/javaBasics.html" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.js" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/tip.js" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/TipCalculator.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1309" />
+    <option name="x" value="1290" />
     <option name="y" value="23" />
     <option name="width" value="1274" />
     <option name="height" value="699" />
@@ -167,6 +278,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,36 +289,18 @@
             <path>
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
-              <item name="forms" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="javaBasics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,6 +311,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -226,11 +321,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/May_WAP/javaBasics" />
+      <recent name="$PROJECT_DIR$/April_WAP" />
       <recent name="$PROJECT_DIR$/May_WAP" />
       <recent name="$PROJECT_DIR$/May_WAP/lesson2_lab/recipes/resources" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/index" />
-      <recent name="$PROJECT_DIR$/movieLayout/movieimages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -260,7 +355,8 @@
       <workItem from="1589722156084" duration="11000" />
       <workItem from="1589724486637" duration="40829000" />
       <workItem from="1589957764112" duration="41410000" />
-      <workItem from="1590368663149" duration="3668000" />
+      <workItem from="1590368663149" duration="4614000" />
+      <workItem from="1590460240300" duration="9111000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -294,13 +390,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92053000" />
+    <option name="totallyTimeSpent" value="102110000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1309" y="23" width="1274" height="699" extended-state="0" />
+    <frame x="1290" y="23" width="1274" height="699" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28896105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29383117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -364,62 +460,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/me.jpg" />
     <entry file="file://$PROJECT_DIR$/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/screeshot/Q2.png">
+    <entry file="file://$PROJECT_DIR$/April_WAP/screeshot/Q2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/responsivePageDesign.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/responsivePageDesign.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/movieLayout/movie.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/movieLayout/movie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movieLayout/movie.css">
+    <entry file="file://$PROJECT_DIR$/April_WAP/movieLayout/movie.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/css/grid.css">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/css/grid.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/css/flexbox.css">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/css/flexbox.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/css/demo.css">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
           <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/bootstrap.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/flexbox.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/flexbox.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responsiveDesign/grid.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/responsiveDesign/grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
@@ -429,26 +525,26 @@
     <entry file="file://$PROJECT_DIR$/Read ME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/aboutme.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/about/aboutme.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scope/scope.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/scope/scope.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scope/scope.js">
+    <entry file="file://$PROJECT_DIR$/April_WAP/scope/scope.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bubble/bubble.html">
+    <entry file="file://$PROJECT_DIR$/April_WAP/Bubble/bubble.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ascII/asciianimation.js">
+    <entry file="file://$PROJECT_DIR$/April_WAP/ascII/asciianimation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/module.js">
+    <entry file="file://$PROJECT_DIR$/April_WAP/module/module.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/text.txt">
@@ -493,6 +589,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/April_WAP/forms/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/forms/forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/April_WAP/forms/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/recipes/resources/recipe.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -507,6 +631,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/layout/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -514,52 +652,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/basic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.css">
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/javaBasics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="99" column="23" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/tip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/tipCalculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="122" column="16" lean-forward="true" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forms/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/forms/form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="1" lean-forward="true" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/forms/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/forms/resources/forms.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="117">
+          <caret line="126" column="34" lean-forward="true" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -16,7 +16,7 @@ body{
 
 .vl {
     border-left: 6px solid green;
-    height: 1000px;
+    height: 70em;
     position: absolute;
     left: 50%;
     margin-left: -3px;
@@ -50,7 +50,7 @@ a{
     color: white;
 }
 
-#mytable caption{
+#mytable caption, #syllabus caption{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
@@ -58,14 +58,14 @@ a{
     color: white;
 }
 
-#mytable tr:hover{
+#mytable tr:hover , #syllabus tr:hover{
     background-color: forestgreen;
 }
-#mytable td, #customers th {
+#mytable td, #mytable th ,#syllabus td, #syllabus th{
     border: 1px solid #ddd;
     padding: 8px;
 }
-#mytable {
+#mytable , #syllabus {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -86,23 +86,4 @@ div.fixed {
     color: white;
 }
 
-#syllabus caption{
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: center;
-    background-color: forestgreen;
-    color: white;
-}
 
-#syllabus tr:hover{
-    background-color: forestgreen;
-}
-#syllabus td, #syllabus th {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-#syllabus {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
