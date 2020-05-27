@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/decorate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="420">
+              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -87,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            <state relative-caret-position="455">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -157,17 +157,17 @@
         <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/tip.js" />
         <option value="$PROJECT_DIR$/May_WAP/javaBasics/TipCalculator.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" />
         <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.css" />
         <option value="$PROJECT_DIR$/May_WAP/javaBasics/tipCalculator.html" />
         <option value="$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css" />
+        <option value="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1290" />
+    <option name="x" value="3" />
     <option name="y" value="23" />
-    <option name="width" value="1274" />
+    <option name="width" value="1242" />
     <option name="height" value="699" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -275,7 +275,7 @@
       <workItem from="1589724486637" duration="40829000" />
       <workItem from="1589957764112" duration="41410000" />
       <workItem from="1590368663149" duration="4614000" />
-      <workItem from="1590460240300" duration="9914000" />
+      <workItem from="1590460240300" duration="10417000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -309,7 +309,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102913000" />
+    <option name="totallyTimeSpent" value="103416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1290" y="23" width="1274" height="699" extended-state="0" />
@@ -585,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/decorate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -615,8 +608,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/calculator.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        <state relative-caret-position="455">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/decorate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
