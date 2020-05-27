@@ -20,6 +20,9 @@ a{
     text-decoration: none;
     color: white;
 }
+button:hover{
+    background-color: #c3e6cb;
+}
 body, input, button {
     font-family: "Century Gothic",sans-serif;
     font-size: 20pt;
@@ -30,4 +33,8 @@ div {
 
 div #receipt{
     visibility: hidden;
+}
+
+input:hover{
+    border: 5px solid #1c7430;
 }
