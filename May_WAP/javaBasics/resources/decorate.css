@@ -1,10 +1,3 @@
-
-body {
-    margin-left: 20%;
-    margin-right: 20%;
-    background-color: #A2B964;
-}
-
 div.backtohome{
     position: fixed;
     top:50px;
@@ -19,15 +12,4 @@ div.backtohome{
 a{
     text-decoration: none;
     color: white;
-}
-body, input, button {
-    font-family: "Century Gothic",sans-serif;
-    font-size: 20pt;
-}
-div {
-    margin: 0.5em;
-}
-
-div #receipt{
-    visibility: hidden;
 }
