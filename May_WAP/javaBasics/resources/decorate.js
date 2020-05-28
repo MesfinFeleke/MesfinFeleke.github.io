@@ -16,20 +16,20 @@ window.onload =function() {
     imgBtn.onclick = changepic;
     const blingcheck = document.getElementById("bling");
     blingcheck.onclick = changeFormate;
-
+    const clearbtn = document.getElementById("clear");
+    clearbtn.onclick = cleatText;
 
 
 }
 
 function changeFont() {
-    // alert("Hello, world!");
     const sampleTxtArea = document.getElementById("textarea");
-       sampleTxtArea.style.fontSize = "24pt";
+     //  sampleTxtArea.style.fontSize = "24pt";
 
-  //  if (sampleTxtArea.style.fontSize === "") {
-   //     sampleTxtArea.style.fontSize = "24pt";
-  //  }
- //  sampleTxtArea.style.fontSize = parseInt(sampleTxtArea.style.fontSize) + 2 + "pt";
+    if (sampleTxtArea.style.fontSize === "") {
+        sampleTxtArea.style.fontSize = "12pt";
+    }
+   sampleTxtArea.style.fontSize = parseInt(sampleTxtArea.style.fontSize) + 2 + "pt";
 }
 
 function changepic(){
@@ -41,16 +41,24 @@ function changeFormate() {
     const blingcheck = document.getElementById("bling");
     const sampleTxtArea = document.getElementById("textarea");
     if(blingcheck.checked){
-           
-    }
-    else {
         sampleTxtArea.style.color = "green";
         sampleTxtArea.style.fontWeight = "bold";
         sampleTxtArea.style.textDecoration = "underline";
+        document.body.style.backgroundImage = "url('resources/shrek2.jpeg')";
+        document.body.style.backgroundImage.repeat(5);
     }
+    else {
+        sampleTxtArea.style.fontWeight = "normal";
+        sampleTxtArea.style.color = "black";
+        sampleTxtArea.style.textDecoration = "unset";
+        document.body.style.backgroundImage = "";
 
+    }
 }
-
+ function cleatText(){
+     const sampleTxtArea = document.getElementById("textarea");
+     sampleTxtArea.value ="";
+ }
 
 
 

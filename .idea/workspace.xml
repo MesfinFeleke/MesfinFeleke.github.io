@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/javaBasics/decorate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.js" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/decorate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="34" column="20" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="20" />
+            <state relative-caret-position="470">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+            <state relative-caret-position="410">
+              <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -278,7 +273,7 @@
       <workItem from="1589724486637" duration="40829000" />
       <workItem from="1589957764112" duration="41410000" />
       <workItem from="1590368663149" duration="4614000" />
-      <workItem from="1590460240300" duration="24477000" />
+      <workItem from="1590460240300" duration="25418000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -312,7 +307,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117476000" />
+    <option name="totallyTimeSpent" value="118417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1296" y="23" width="1242" height="699" extended-state="0" />
@@ -614,15 +609,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/decorate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="20" />
+        <state relative-caret-position="470">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/javaBasics/resources/decorate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="410">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
         </state>
       </provider>
     </entry>
