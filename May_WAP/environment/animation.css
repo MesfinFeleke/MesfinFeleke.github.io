@@ -1,0 +1,51 @@
+
+body{
+    background-color: #A2B964;
+}
+
+
+div.backtohome{
+    position: fixed;
+    top:10px;
+    right:20px;
+    background-color: green;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.main{
+    background-color: #CCCCFF;
+    font: bold 14pt "sans-serif";
+}
+
+h { font-weight: bold;
+    font-size: 32pt;
+}
+
+.textbox{
+    width:90%;
+    max-height:400px;
+    font: bold 12pt "monospace";
+
+
+}
+.box{
+    border: 5px solid black;
+
+
+}
+
+.container{
+    max-width: 50%;
+    display:flex;
+    margin: auto;
+
+
+}
