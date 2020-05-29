@@ -30,18 +30,16 @@ h3 {
     font-size: 32pt;
     width:50%;
      margin:auto;
+     text-shadow: 2px 2px green;
 }
 
 .textbox{
     width:90%;
     max-height:400px;
     font: bold 12pt "monospace";
-
-
 }
 .box{
     border: 5px solid black;
-
 
 }
 
@@ -49,6 +47,7 @@ h3 {
     max-width: 50%;
     display:flex;
     margin: auto;
+    justify-content: space-between;
 
 
 }

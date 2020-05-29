@@ -1,16 +1,30 @@
 
+"use strict";
+
+function loadPage(){
+   const startbtn = document.getElementById("start");
+    startbtn.onclick = disableStop;
+    const stoptbtn = document.getElementById("stop");
+    stoptbtn.onclick = disableStart;
+}
 
 
 
+function disableStop(){
+
+   const stoptbtn = document.getElementById("stop");
+    stoptbtn.disabled = true;
+}
+
+function disableStart(){
+    const startbtn = document.getElementById("start");
+    const animation = document.getElementById("anime");
+    animation.disabled= true;
+    startbtn.disabled= true;
+}
 
 
-
-
-
-
-
-
-
+window.onload= loadPage;
 
 
 
