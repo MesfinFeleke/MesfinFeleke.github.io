@@ -52,3 +52,9 @@ h3 {
 
 
 }
+.validators{
+    float: right;
+    display: flex;
+    flex-direction: column;
+
+}
