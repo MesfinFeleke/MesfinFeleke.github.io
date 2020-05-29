@@ -25,8 +25,11 @@ a{
     font: bold 14pt "sans-serif";
 }
 
-h { font-weight: bold;
+h3 {
+    font-weight: bold;
     font-size: 32pt;
+    width:50%;
+     margin:auto;
 }
 
 .textbox{
