@@ -28,19 +28,6 @@ window.onload= loadPage;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 // CSE 190 M, Homework 6: ASCIImation
 // This file contains the ASCII animations as large strings.
 //
