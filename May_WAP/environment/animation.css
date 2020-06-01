@@ -20,36 +20,48 @@ a{
     color: white;
 }
 
-.main{
-    background-color: #CCCCFF;
-    font: bold 14pt "sans-serif";
+span{
+    float: left;
+    color: red;
+    font-size: 25px;
 }
 
-h3 {
-    font-weight: bold;
+h1{
+    text-align: center;
     font-size: 32pt;
-    width:50%;
-     margin:auto;
-     text-shadow: 2px 2px green;
+    margin: 0;
 }
 
-.textbox{
-    width:90%;
-    max-height:400px;
-    font: bold 12pt "monospace";
+textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 400px;
+    font-size: 12pt;
+    font-weight: bold;
+    font-family: monospace;
 }
-.box{
-    border: 5px solid black;
 
+div{
+    text-align: center;
+}
+fieldset{
+    display: inline;
+    border-width: 5px;
+    border-color: black;
 }
 
-.container{
-    max-width: 50%;
-    display:flex;
-    margin: auto;
-    justify-content: space-between;
+fieldset legend{
+    text-align: left;
+}
 
+footer{
+    text-align: right;
+}
 
+p{
+    margin:0px;
 }
 .validators{
     float: right;
