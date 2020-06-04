@@ -32,13 +32,15 @@ $(function () {
     $("#btn2").on('click', function () {
 
         $('#p10').slideToggle(200).remove(1000);
+        $('.row').slideUp(200).remove(1000);
 
-    })
+
+    });
 
     $("p").css({"background-color": "yellow","color":"blue"});
 
 
-    let listbtn =document.getElementById("listbutton");
+    let listbtn =document.getElementById("btn3");
     listbtn = $(listbtn);
     listbtn.on('click', function(){
         $(".labs").css("color", "red");
@@ -48,8 +50,11 @@ $(function () {
     });
 
 
+ $("body, div,p ").click(myAlert);
 
-
+ function myAlert(){
+     alert(`you clicked ${this.nodeName}`)
+ }
 
 
 });
