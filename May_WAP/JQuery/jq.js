@@ -52,8 +52,9 @@ $(function () {
 
  $("body, div,p ").click(myAlert);
 
- function myAlert(){
+ function myAlert(evt){
      alert(`you clicked ${this.nodeName}`)
+     evt.stopPropagation();
  }
 
 
