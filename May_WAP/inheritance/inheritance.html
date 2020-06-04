@@ -3,15 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>inheritance</title>
+    <script src="resources/jquery-3.5.js"></script>
+
     <link href="resources/inheritance.css" type="text/css" rel="stylesheet">
     <script src="resources/inheritance.js"></script>
+    <script src="resources/module.js"></script>
 </head>
 <body>
 <div class="backtohome">
     <a href="../../index.html"> Back to Home </a>
 </div>
-<p> some paragraph</p>
-<p> another paragraph</p>
+<p>code in the console</p>
+<button id="start" value="start">start</button>
+
+<div id="peopleModule">
+    <h3> add students</h3>
+    <input placeholder="name" type="text">
+    <button id="addPerson">Add Person</button>
+    <ul id="people">
+        <script id="people-template" type="text/template">
+            {{#people}}
+            <li>
+                <span>{{.}}</span>
+                <i class="del">X</i>
+            </li>
+            {{/people}}
+        </script>
+    </ul>
+
+</div>
 
 </body>
 </html>

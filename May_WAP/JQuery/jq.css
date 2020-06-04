@@ -1,0 +1,50 @@
+
+body{
+   background-color: #A2B964;
+}
+
+
+div.backtohome{
+   position: fixed;
+   top:10px;
+   right:20px;
+   background-color: green;
+   padding: 5px 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+.btn{
+   height:20px;
+   width:100px;
+   margin: -20px -50px;
+   position:relative;
+   top:50%;
+   left:50%;
+}
+
+
+.container {
+   display: grid;
+
+
+}
+.row  {
+   background-color: #0056b3;
+   width: 100px;
+   height:100px;
+   margin:5px;
+}
+
+div.row{
+   background-color: #c82333;
+}
+
+.first_row {
+   display: inline-flex;
+}
