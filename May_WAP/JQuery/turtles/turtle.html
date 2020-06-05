@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>turtles all the way down</title>
+    <link rel="stylesheet" type="text/css" href="turtle.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"
+            type="text/javascript"></script>
+    <script type="text/javascript" src="turtle.js"></script>
+</head>
+
+<body>
+<div class="backtohome">
+    <a href="../../../index.html"> Back to Home </a>
+</div>
+
+<div id="earth"></div>
+<div id="elephant"></div>
+<div class="turtle"></div>
+
+<pre>
+    <div>  $(window).scrollTop()
+        The portion of the document that has scrolled off-screen above the currently-visible
+        portion.
+        $(window).height()
+        The height of the visible area of the document on-screen.
+        $(document.body).height()
+        The height of the body tag (i.e., the height of the entire page, on- and off-screen).
+        $(window).scrollTop() + $(window).height() >= $(document).height()
+        Will be true whenever you have scrolled to where the document is smaller than the
+        visible window.
+        $("<div>").addClass('turtle')
+            This is how to create a div that will look like a turtle. (see the css file for details)</div>
+
+
+
+</pre>
+</body>
+</html>

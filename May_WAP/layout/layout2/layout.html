@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Layout Exercise April 22</title>
+    <style type="text/css">
+
+        html {
+            background-image: url('../../../src/b3.jpeg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        #h1Exerciseone {
+            color: darkslateblue;
+            border: 10px solid darkslategray;
+            background-color: aquamarine;
+            max-width: 350px;
+            border-radius: 32%;
+            margin: 20px;
+        }
+        h2 {
+            color: darkslateblue;
+            padding-left: 50px;
+            padding-top: 30px;
+            text-align: center;
+        }
+        li {
+            display: inline;
+            border: 1px solid black;
+            padding: 10px;
+            background-color: white;
+        }
+        #outer {
+            border: 2px dashed black;
+            overflow: hidden;
+            padding: 10px;
+        }
+        .box {
+            width: 100px;
+            height: 100px;
+            background-color: wheat;
+            margin: 10px;
+            float: left;
+        }
+        .break {
+            clear: left;
+        }
+
+        ul {
+            background-color: red;
+            align-content: center;
+            padding: 30px;
+        }
+        #h1ExerciseTwo {
+            background-color: yellow;
+        }
+
+        #bigcontainer{
+            background-color: mediumturquoise;
+            padding:10px;
+            overflow: hidden;
+
+        }
+        #container{
+            background-color: gray;
+            padding:10px;
+            width:500px;
+            overflow: hidden;
+
+
+        }
+        #container2 {
+            background-color: royalblue;
+            padding:10px;
+            width:500px;
+            float: right;
+            overflow: hidden;
+
+
+        }
+        #container3{
+            background-color: orange;
+            padding:10px;
+            width:500px;
+            float: right;
+            text-align: center;
+            margin-right: 30px;
+
+        }
+        #column1, #column2{
+            background-color: lightblue;
+            float: left;
+            margin-left: 10px;
+            width: 100px;
+            text-align: center;
+        }
+        #columnA, #columnB{
+            background-color: green;
+            float: right;
+            margin-left: 10px;
+            width: 100px;
+            text-align: center;
+        }
+        #columnAA {
+            background-color: darkmagenta;
+            float: left;
+            margin-left: 5px;
+            width: 100px;
+            text-align: center;
+        }
+        #columnBB{
+            background-color: darkred;
+            float: left;
+            clear:right;
+            margin-left: 5px;
+            width: 100px;
+            text-align: center;
+        }
+
+
+    </style>
+</head>
+<body>
+<h1 id="h1Exerciseone">Layout Exercise April 22</h1>
+<h2> Exercise 1: Float Boxes</h2>
+<div>
+    <ul>
+        <li>Banana</li>
+        <li>orange</li>
+        <li>Grapes</li>
+        <li>Papaya</li>
+    </ul>
+</div>
+
+<div id="outer">
+    <div class="box"> </div>
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box break"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+</div>
+
+<div id="bigcontainer">
+
+<div id="container">
+<h1 id ="h1ExerciseTwo"> Header : Exercise 2</h1>
+
+    <div id="column1">
+<h2>Area 1</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+    consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+    dolore magna aliqua......</p></div>
+
+    <div id="column2">
+<h2>Area 2</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+    consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+    dolore magna aliqua......</p></div>
+
+<h2>Area 3</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, Lorem ipsum dolor sit amet, consectetur
+    adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+    in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur....</p>
+</div>
+
+    <div id="container2">
+
+        <div id="columnA">
+            <h2>Area 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua......</p></div>
+
+        <div id="columnB">
+            <h2>Area 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua......</p></div>
+
+        <h2>Area 3</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+            veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+            in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur....</p>
+
+
+    </div>
+    <div id="container3">
+
+        <div id="columnAA">
+            <h2>Area 1</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua......</p></div>
+
+        <div id="columnBB">
+            <h2>Area 2</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing Lorem ipsum dolor sit amet,
+                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua......</p></div>
+
+        <h2>Area 3</h2>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+            veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+            in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur....</p>
+
+
+    </div>
+</div>
+
+</body>
+</html>
