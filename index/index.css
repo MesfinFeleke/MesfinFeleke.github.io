@@ -16,19 +16,16 @@ body{
 
 
 }
-
 #may{
    background-color: green;
     float: left;
     width:25% ;
-
 }
 #june{
     margin-left: 25%;
     float: left;
     margin-top: 40px;
 }
-
 .vl {
     border-left: 6px solid green;
     height: 70em;
@@ -37,14 +34,11 @@ body{
     background-color: #007bff;
     top: 0;
 }
-
-
 img{
     border-radius: 50%;
     margin-left: 0px;
     margin-top: 40px;
 }
-
 nav.backtohome{
     position: fixed;
     top:3px;
@@ -54,7 +48,6 @@ nav.backtohome{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-
 }
 a{
     text-decoration: none;
