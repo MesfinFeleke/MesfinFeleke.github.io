@@ -10,12 +10,11 @@ body{
 
 }
 
-
 #mainContainer{
     display:inline-flex;
-
-
 }
+
+
 #may{
    background-color: green;
     float: left;
@@ -90,4 +89,7 @@ div.fixed {
     color: white;
 }
 
-
+.resources{
+    margin: 20px;
+    color: darkblue;
+}
