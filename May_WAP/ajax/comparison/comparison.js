@@ -2,10 +2,10 @@
 
 $(function() {
     $('#hw').change(function() {
-   //     var file = 'MesfinFeleke.github.io/homework.html'+$('#hw').val();
+      var file = 'files/'+$('#hw').val();
 
         $.ajax({
-            'url': '',
+            'url': file,
             'type': 'GET',
             'success': ajaxSuccess,
             'error': ajaxFailure
