@@ -2,10 +2,10 @@
 
 $(function() {
     $('#hw').change(function() {
-   //     var file = 'https://learnwebcode.github.io/json-example/animals-1.json'+$('#hw').val();
+   //     var file = 'MesfinFeleke.github.io/homework.html'+$('#hw').val();
 
         $.ajax({
-            'url': 'https://learnwebcode.github.io/json-example/animals-1.json',
+            'url': '',
             'type': 'GET',
             'success': ajaxSuccess,
             'error': ajaxFailure

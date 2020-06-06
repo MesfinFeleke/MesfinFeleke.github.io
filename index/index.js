@@ -2,7 +2,7 @@
 
 /*
 window.onload= function () {
-    window.open("index/myAlert.html", "My pop up Window",
+    window.open("index/data.html", "My pop up Window",
         "width=600,height=600,scrollbars=1");
 */
 
