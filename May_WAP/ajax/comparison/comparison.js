@@ -2,7 +2,7 @@
 
 $(function() {
     $('#hw').change(function() {
-      var file = 'HW1.txt'+$('#hw').val();
+      var file = './'+$('#hw').val();
 
         $.ajax({
             'url': file,
