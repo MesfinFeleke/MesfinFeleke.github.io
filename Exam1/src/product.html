@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+
+    <style type="text/css">
+
+        table, th, td {
+            position: relative;
+            border: 1px solid black;
+            width: 40%;
+            height:40px;
+            top: 5%;
+        }
+
+    </style>
+
+
+    <script type="text/javascript">
+
+        function lab()
+        {
+            var x= document.getElementById('lab').value;
+            document.getElementById('00').innerHTML=x;
+
+        }
+
+        function inp()
+        {
+            var y= document.getElementById('inp1').value;
+            document.getElementById('01').innerHTML=y;
+        }
+
+
+    </script>
+</head>
+<body>
+<button id="lab" onclick="lab()" value="label">Label</button>
+
+<button id="inp1" onclick="inp()" value="Input">Input</button>
+
+<button id="res" onclick="reset()">reset</button>
+</body>
+
+<table id="me1">
+    <tr>
+        <td id='00'></td>
+        <td id='01'></td>
+    </tr>
+    <tbody></tbody>
+
+</table>
+
+</html>

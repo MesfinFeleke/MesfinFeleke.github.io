@@ -11,7 +11,7 @@ function pageLoad() {
         let amount;
 
         return {
-              createAcccount: function (name, amt) {
+            createAcccount: function (name, amt) {
                 acctName = name;
                 amount = amt;
                 return {
@@ -34,29 +34,12 @@ function pageLoad() {
         }
 
     }
+
     function clearText() {
         document.getElementById("display").value = "";
     }
-
-   const saving = (function() {
-        "use strict";
-        const bonus = 50 ;
-        const deduction  = 20;
-        function addedAmount( val){
-            var amountBalance = document.getElementById("amount").value;
-             amountBalance += -bonus + deduction ;
-        }
-            return {
-             totaldeposit: function () {
-                 addedAmount(100);
-             }
-            }
-
-
-    })();
-    document.getElementById("display").value += `Total Deposit: ${saving.totaldeposit}`
 }
-window.onload = pageLoad;
+    window.onload = pageLoad;
 
 
 
