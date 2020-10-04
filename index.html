@@ -2,228 +2,260 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>mesfinPage</title>
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Mesfin Dejene Feleke </title>
+
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <link rel="stylesheet" href="index/style.css">
+
+    <link rel="stylesheet" href="index/footer.css">
+
     <link rel="stylesheet" href="index/index.css">
+
+    <link
+            href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+            rel="stylesheet" id="bootstrap-css">
 </head>
 <body>
+
+<!--
 <div id="mainContainer">
     <div id="may">
         <img src="May_WAP/images/me.jpg" alt=" my smiley face" width="200" height="200"/>
         <div class="vl"></div>
-       <div class="resources">
-           <h2> Resources</h2> <br>
-           <ul>
-               <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date"> MDN </a></li>
-               <li><a href="https://mesfinfeleke.github.io/"> Github </a></li>
-               <li><a href="https://javascript.info/"> JavaScript INFO </a></li>
-               <li><a href="index/data.html"> data</a></li>
-           </ul>
-       </div>
+        <div class="resources">
+            <h2> Resources</h2> <br>
+            <ul>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date">
+                    MDN </a></li>
+                <li><a href="https://mesfinfeleke.github.io/"> Github </a></li>
+                <li><a href="https://javascript.info/"> JavaScript INFO </a></li>
+                <li><a href="index/data.html"> data</a></li>
+            </ul>
+        </div>
     </div>
-    <div id="june">
-        <p> Date: <span id="datetime"></span></p>
-        <h3> Professor Rakesh Shrestha: CS472-WAP Course </h3>
-        <nav class="backtohome">
-            <a href="May_WAP/about/about.html"> about me </a>|
-            <a href="May_WAP/recipes/recipes.html"> recipes </a>|
-            <a href="May_WAP/layout/layout.html">layout</a> |
-            <a href="May_WAP/forms/forms.html">forms</a>|
-            <a href="May_WAP/javaBasics/tipCalculator.html">calculator</a>|
-            <a href="May_WAP/javaBasics/decorate.html">decorate</a>
+</div>-->
+
+<header id="header" class="fixed-top navbar-light bg-light">
+    <div class="container d-flex align-items-center">
+
+        <h4 class="logo mr-auto">MESFIN D FELEKE </h4>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item "><a class="nav-link text-dark"
+                                             href="May_WAP/about/about.html">About | </a></li>
+                    <li class="nav-item"><a class="nav-link text-dark"
+                                            href="@{/jobs}">Projects |</a></li>
+                    <li class="nav-item"><a class="nav-link text-dark"
+                                            href="@{/companies}">Games |</a></li>
+                    <li class="nav-item"><a class="nav-link text-dark"
+                                            href="@{/services}">Personal Developements |</a></li>
+                    <li class="nav-item"><a class="nav-link text-dark"
+                                            href="@{/portfolio}">other |</a></li>
+
+                </ul>
+
+            </div>
         </nav>
-        <table id="mytable">
-            <caption id="cation"> LAB and Exercises</caption>
-            <tr>
-                <th> Week One</th>
-                <th>Exercise</th>
-            </tr>
-            <tr>
-                <td>Lesson 1</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td>Lesson 2</td>
-                <td><a href="May_WAP/about/about.html"> about me </a> |
-                    <a href="May_WAP/recipes/recipes.html"> recipes </a>
-            </tr>
-            <tr>
-                <td>Lesson 3</td>
-                <td><a href="May_WAP/layout/layout.html">layout</a>|
+        <!-- .nav-menu -->
+
+        <a href="@{/services}" class="get-started-btn scrollto bg-info"><span id="datetime"></span></a>
+    </div>
+</header>
+
+
+<!-- ======= Hero Section ======= -->
+
+
+<div class="row">
+    <div class="col-5 col-lg-4" ><img src="May_WAP/images/me.jpg" alt=" my smiley face" width="400" height="300"/></div>
+    <div class="col-7 col-lg-8">
+
+        <!-- ======= Hero Section ======= -->
+        <section id="hero" class="d-flex align-items-center">
+
+            <div class="container">
+                <div class="row">
+                    <div
+                            class="col-sm-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
+                            data-aos="fade-up" data-aos-delay="200">
+                        <h1>Better Solutions For Your Projects</h1>
+                        <h2>We will get the best discounts for you</h2>
+                        <div class="d-lg-flex">
+                            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+    </div>
+</div>
+
+
+
+
+<div class="container">
+
+    <h3>Assignements</h3>
+    <table class="table table-hover table-bordered bg-info">
+        <thead>
+
+        <tr>
+            <th>#</th>
+            <th>Assignements</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Lesson 2</td>
+            <td><a href="May_WAP/about/about.html"> about me </a> |
+                <a href="May_WAP/recipes/recipes.html"> recipes </a>
+        </tr>
+        <tr>
+            <td>Lesson 3</td>
+            <td><a href="May_WAP/layout/layout.html">layout</a>|
                 <a href="May_WAP/layout/responsiveDesign/responsivePageDesign.html"> Responsive</a>|
-                    <a href="May_WAP/layout/bootstrapFrameWork.html">Bootstrap</a>|
-                    <a href="May_WAP/layout/responsiveDesign/bootstrap.html">Bootstrap </a>|
-                    <a href="May_WAP/layout/responsiveDesign/flexbox.html">flexbox</a>|
-                    <a href="May_WAP/layout/responsiveDesign/grid.html">grid</a>
+                <a href="May_WAP/layout/bootstrapFrameWork.html">Bootstrap</a>|
+                <a href="May_WAP/layout/responsiveDesign/bootstrap.html">Bootstrap </a>|
+                <a href="May_WAP/layout/responsiveDesign/flexbox.html">flexbox</a>|
+                <a href="May_WAP/layout/responsiveDesign/grid.html">grid</a>
 
-                </td>
-            </tr>
-            <tr>
-                <td>Lesson 4</td>
-                <td><a href="May_WAP/forms/forms.html"> forms </a></td>
-            </tr>
-            <tr>
-                <td>Lesson 5</td>
-                <td><a href=""> </a>Review</td>
-            </tr>
-            <tr>
-                <th> Week Two</th>
-            </tr>
-            <tr>
-                <td>Lesson 6</td>
-                <td><a href=""> </a>Exam 1</td>
-            </tr>
-            <tr>
-                <td>Lesson 7</td>
-                <td><a href="May_WAP/javaBasics/tipCalculator.html"> Calculator </a> |
-                    <a href="May_WAP/javaBasics/decorate.html"> Decorate </a>
-                </td>
-            </tr>
-            <tr>
-                <td>Lesson 8</td>
-                <td><a href="May_WAP/environment/animation.html"> Animation </a></td>
-            </tr>
-            <tr>
-                <td> Lesson 9</td>
-                <td><a href="May_WAP/closure/closure.html"> Module/Closure</a></td>
-            </tr>
-            <tr>
-                <td> Lesson 10</td>
-                <td><a href="May_WAP/closure/closure.html"> Module/Closure</a></td>
-            </tr>
-            <tr>
-                <th> Week Three</th>
-            </tr>
-            <tr>
-                <td> Lesson 11</td>
-                <td><a href="May_WAP/inheritance/inheritance.html">Inheritance</a></td>
-            </tr>
-            <tr>
-                <td> Lesson 12</td>
-                <td><a href=May_WAP/JQuery/maze/maze.html> JQuery</a>|
-                    <a href=May_WAP/JQuery/bouncingBall/ball.html> ball</a>|
-                    <a href=May_WAP/JQuery/practice/practice.html> practice</a>|
-                    <a href=May_WAP/JQuery/cheerleader/cheerleader.html>cheerleader</a>|
-                    <a href=May_WAP/JQuery/raptor/raptor.html>raptors</a>|
-                    <a href=May_WAP/JQuery/turtles/turtle.html>turtles</a>|
-                    <a href=May_WAP/JQuery/puzzle/fifteen.html>puzzle</a></td>
-            </tr>
-            <tr>
-                <td> Lesson 13</td>
-                <td><a href="May_WAP/ajax/JsonPractice/web/index.html">Ajax</a> |
-                    <a href="May_WAP/ajax/comparison/comparison.html"> Output Comparison Tool</a>
-                </td>
-            </tr>
-            <tr>
-                <td> Lesson 14</td>
-                <td><a href="May_WAP/servlets/servlet.html">Servlet </a> |
-                    <a href="May_WAP/servlets/servlet.html">Servlet </a>
-                </td>
-            </tr>
-            <tr>
-                <td> Lesson 15</td>
-                <td><a href=""> </a> Review</td>
-            </tr>
-            <tr>
-                <th> Week Four</th>
-            </tr>
-            <tr>
-                <td>Lesson 16</td>
-                <td><a href=""> </a>Exam 2</td>
-            </tr>
-            <tr>
-                <td> Lesson 17</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td> Lesson 18</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td> Lesson 19</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td> Lesson 20</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <th> Week Five</th>
+            </td>
+        </tr>
+        <tr>
+            <td>Lesson 4</td>
+            <td><a href="May_WAP/forms/forms.html"> forms </a></td>
+        </tr>
+        <tr>
+            <td>Lesson 5</td>
+            <td><a href=""> </a>Review</td>
+        </tr>
+        <tr>
+            <td>Lesson 6</td>
+            <td><a href=""> </a>Exam 1</td>
+        </tr>
+        <tr>
+            <td>Lesson 7</td>
+            <td><a href="May_WAP/javaBasics/tipCalculator.html"> Calculator </a> |
+                <a href="May_WAP/javaBasics/decorate.html"> Decorate </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Lesson 8</td>
+            <td><a href="May_WAP/environment/animation.html"> Animation </a></td>
+        </tr>
+        <tr>
+            <td> Lesson 9</td>
+            <td><a href="May_WAP/closure/closure.html"> Module/Closure</a></td>
+        </tr>
+        <tr>
+            <td> Lesson 10</td>
+            <td><a href="May_WAP/closure/closure.html"> Module/Closure</a></td>
+        </tr>
+        <tr>
+            <th> Week Three</th>
+        </tr>
+        <tr>
+            <td> Lesson 11</td>
+            <td><a href="May_WAP/inheritance/inheritance.html">Inheritance</a></td>
+        </tr>
+        <tr>
+            <td> Lesson 12</td>
+            <td><a href=May_WAP/JQuery/maze/maze.html> JQuery</a>|
+                <a href=May_WAP/JQuery/bouncingBall/ball.html> ball</a>|
+                <a href=May_WAP/JQuery/practice/practice.html> practice</a>|
+                <a href=May_WAP/JQuery/cheerleader/cheerleader.html>cheerleader</a>|
+                <a href=May_WAP/JQuery/raptor/raptor.html>raptors</a>|
+                <a href=May_WAP/JQuery/turtles/turtle.html>turtles</a>|
+                <a href=May_WAP/JQuery/puzzle/fifteen.html>puzzle</a></td>
+        </tr>
+        <tr>
+            <td> Lesson 13</td>
+            <td><a href="May_WAP/ajax/JsonPractice/web/index.html">Ajax</a> |
+                <a href="May_WAP/ajax/comparison/comparison.html"> Output Comparison Tool</a>
+            </td>
+        </tr>
+        <tr>
+            <td> Lesson 14</td>
+            <td><a href="May_WAP/servlets/servlet.html">Servlet </a> |
+                <a href="May_WAP/servlets/servlet.html">Servlet </a>
+            </td>
+        </tr>
 
-            </tr>
-            <tr>
-                <td> Lesson 21</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td> Lesson 21</td>
-                <td><a href=""></a></td>
-            </tr>
-            <tr>
-                <td> Lesson 21</td>
-                <td><a href=""></a></td>
-            </tr>
-        </table>
-        <script src="index/index.js"></script>
-        <p>
-            <a href="https://validator.w3.org/check/referer">
-                <img src="http://mumstudents.org/cs472/images/w3c-html.png" alt="Validate"/>
-            </a>
-        </p>
-        <table id="syllabus">
-            <caption> Course OverView 5 Weeks Version</caption>
-            <tr>
-                <th>Weeks</th>
-                <th>Monday</th>
-                <th>Tuesday</th>
-                <th>Wednesday</th>
-                <th>Thursday</th>
-                <th>Friday</th>
-            </tr>
-            <tr>
-                <td> Week 1</td>
-                <td>Web & HTML</td>
-                <td>CSS for Styling</td>
-                <td>Page Layout using CSS</td>
-                <td>HTML5 Forms & Regular Expressions</td>
-                <td>Review</td>
-            </tr>
-            <tr>
-                <td>Week 2</td>
-                <td>Exam 1</td>
-                <td>Java Script Basics</td>
-                <td>Scope & Scope Chain + ES6</td>
-                <td>Closures and Events</td>
-                <td>JavaScript Inheritance</td>
-            </tr>
-            <tr>
-                <td>Week 3</td>
-                <td>JQuery</td>
-                <td>Ajax</td>
-                <td>Servelt Intro</td>
-                <td>State Mamgment</td>
-                <td>Review</td>
-            </tr>
-            <tr>
-                <td>Week 4</td>
-                <td>Exam 2</td>
-                <td>Java Server Pages</td>
-                <td>JSP Custom tags</td>
-                <td>Serialization</td>
-                <td>Project</td>
-            </tr>
-            <tr>
-                <td>week 5</td>
-                <td>Project</td>
-                <td>project</td>
-                <td>Review( project submission)</td>
-                <td>Exam 3</td>
-                <td> BYE</td>
-            </tr>
-        </table>
-        <div class="fixed">
-            Maharishi International University<br/>
-            Department of Computer Science<br/>
-            WAP Course
+        </tbody>
+    </table>
+</div>
+
+
+
+
+<script src="index/index.js"></script>
+<p>
+    <a href="https://validator.w3.org/check/referer">
+        <img src="http://mumstudents.org/cs472/images/w3c-html.png" alt="Validate"/>
+    </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+<div class="section footer-classic context-dark bg-image"
+     style="background: #2d3246;">
+    <div class="container">
+        <div class="row row-5">
+            <div class="col-md-4 col-xl-4">
+                <div class="pr-xl-6">
+                    <!-- Rights-->
+                    <p class="rights">
+                        <span>©  </span><span class="copyright-year">2020</span><span> </span>MDN<span>. </span><span>All
+								Rights Reserved.</span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 footer-links">
+                <ul>
+                    <li><i class="bx bx-chevron-right"></i> <a href="#">Terms
+                        of service</a> <span>  </span><span></span> <i
+                            class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="row no-gutters social-container">
+        <div class="col">
+            <a class="social-inner" href="#"><span
+                    class="icon mdi mdi-facebook"></span><span>Github</span></a>
+        </div>
+        <div class="col">
+            <a class="social-inner" href="#"><span
+                    class="icon mdi mdi-instagram"></span><span>LinkedIn</span></a>
+        </div>
+        <div class="col">
+            <a class="social-inner" href="#"><span
+                    class="icon mdi mdi-twitter"></span><span>twitter</span></a>
+        </div>
+        <div class="col">
+            <a class="social-inner" href="#"><span
+                    class="icon mdi mdi-youtube-play"></span><span>google</span></a>
         </div>
     </div>
 </div>

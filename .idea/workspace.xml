@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MesfinFeleke.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/rows.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/rows.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/todo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/todo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam1/src/todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May_WAP/servlet/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam2/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam2/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MesfinFeleke.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MesfinFeleke.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/ajax/JsonPractice/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/ajax/JsonPractice/web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/ajax/comparison/comparison.js" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/ajax/comparison/comparison.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/closure/resources/closure.js" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/closure/resources/closure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,42 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam1/src/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam1/src/todo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
-              <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam1/src/todo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exam1/src/todo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exam1/src/exam.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -83,16 +32,55 @@
         <entry file="file://$PROJECT_DIR$/Exam1/src/product.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/May_WAP/servlet/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/May_WAP/servlet/index.jsp">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            <state relative-caret-position="199">
+              <caret line="83" column="45" lean-forward="true" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="1829" selection-start-line="1829" selection-end-line="1829" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -130,8 +118,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -141,8 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/May_WAP/JQuery/maze/mazefiles/maze.css" />
-        <option value="$PROJECT_DIR$/May_WAP/JQuery/maze/maze.html" />
         <option value="$PROJECT_DIR$/May_WAP/inheritance/inheritance.html" />
         <option value="$PROJECT_DIR$/May_WAP/JQuery/jq.css" />
         <option value="$PROJECT_DIR$/May_WAP/JQuery/practice.html" />
@@ -173,7 +159,6 @@
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/files/HW1.txt" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/files/HW2.txt" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/files/HW3.txt" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/comparison.html" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/JsonPractice/web/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/comparison.js" />
@@ -192,14 +177,17 @@
         <option value="$PROJECT_DIR$/exam2/action.js" />
         <option value="$PROJECT_DIR$/exam2/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/servlet/index.jsp" />
+        <option value="$PROJECT_DIR$/index/style.css" />
+        <option value="$PROJECT_DIR$/index/footer.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1298" />
-    <option name="y" value="23" />
-    <option name="width" value="1269" />
-    <option name="height" value="700" />
+    <option name="x" value="37" />
+    <option name="y" value="202" />
+    <option name="width" value="960" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,7 +207,18 @@
             <path>
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,6 +282,7 @@
       <workItem from="1590460240300" duration="94606000" />
       <workItem from="1591585289303" duration="13380000" />
       <workItem from="1591665817816" duration="443000" />
+      <workItem from="1601783244570" duration="7987000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -316,13 +316,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201428000" />
+    <option name="totallyTimeSpent" value="209415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1298" y="23" width="1269" height="700" extended-state="0" />
+    <frame x="37" y="202" width="960" height="546" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17277914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,20 +366,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added about me page" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/May_WAP/JQuery/raptor/raptor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/JQuery/puzzle/fifteen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -433,13 +419,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/layout/floated-sidebar/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/ajax/comparison/output.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -503,13 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="76" selection-start-line="24" selection-start-column="76" selection-end-line="24" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="122" column="35" lean-forward="true" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -588,6 +560,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exam1/src/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exam1/exam.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -609,17 +588,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exam1/src/product.html">
+    <entry file="file://$PROJECT_DIR$/index/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="893">
+          <caret line="1829" selection-start-line="1829" selection-end-line="1829" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="92" column="10" lean-forward="true" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/servlet/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="83" column="45" lean-forward="true" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
