@@ -4,10 +4,15 @@ body {
     color: #444444;
 }
 
-
-.active a{
-    color: red !important;
+a{
+    text-decoration: none;
+    color: white;
 }
+
+a:hover, a:active {
+    background-color: lightblue;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Jost", sans-serif;

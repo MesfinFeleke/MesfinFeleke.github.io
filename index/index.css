@@ -9,6 +9,14 @@ body{
     background-color: #A2B964;
 
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover, a:active {
+    background-color: lightblue;
+}
 
 #mainContainer{
     display:inline-flex;

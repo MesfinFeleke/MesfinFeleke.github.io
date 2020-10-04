@@ -2,10 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/May_WAP/books/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/about/resources/css/resume.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/about/resources/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/May_WAP/blog/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/css/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/May_WAP/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/images/lionking3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/mulan1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/mulan2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/shrek1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/shrek2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/images/shrek2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/May_WAP/books/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/books/books.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/May_WAP/projects/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/projects/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,22 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/May_WAP/servlet/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="70" lean-forward="true" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="735">
+              <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -42,35 +45,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/projects/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="31" />
+            <state relative-caret-position="145">
+              <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/May_WAP/blog/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/May_WAP/books/books.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/May_WAP/books/books.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="69" column="10" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="340">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/index.css">
+        <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/css/resume.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -78,35 +90,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="893">
-              <caret line="1829" selection-start-line="1829" selection-end-line="1829" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index/footer.css">
+        <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="540">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam2/index.html">
+        <entry file="file://$PROJECT_DIR$/index/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exam2/action.js">
+        <entry file="file://$PROJECT_DIR$/index/data.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+            <state relative-caret-position="630">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -128,11 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/May_WAP/JQuery/jq.js" />
-        <option value="$PROJECT_DIR$/May_WAP/ajax/JsonPractice/web/css/style.css" />
-        <option value="$PROJECT_DIR$/May_WAP/servlets/servlet.html" />
-        <option value="$PROJECT_DIR$/May_WAP/JQuery/bouncingBall/resources/ball.css" />
-        <option value="$PROJECT_DIR$/index/myAlert.html" />
         <option value="$PROJECT_DIR$/May_WAP/JQuery/bouncingBall/ball.html" />
         <option value="$PROJECT_DIR$/May_WAP/JQuery/cheerleader/cheerleader.css" />
         <option value="$PROJECT_DIR$/May_WAP/JQuery/bouncingBall/resources/ball.js" />
@@ -149,7 +156,6 @@
         <option value="$PROJECT_DIR$/May_WAP/JQuery/puzzle/fifteen.html" />
         <option value="$PROJECT_DIR$/index/index.js" />
         <option value="$PROJECT_DIR$/May_WAP/closure/module/module.html" />
-        <option value="$PROJECT_DIR$/index/index.css" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/resources/output.css" />
         <option value="$PROJECT_DIR$/index/data.html" />
         <option value="$PROJECT_DIR$/May_WAP/ajax/comparison/files/HW1.txt" />
@@ -173,20 +179,26 @@
         <option value="$PROJECT_DIR$/exam2/action.js" />
         <option value="$PROJECT_DIR$/exam2/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/servlet/index.jsp" />
-        <option value="$PROJECT_DIR$/index/style.css" />
         <option value="$PROJECT_DIR$/index/footer.css" />
+        <option value="$PROJECT_DIR$/May_WAP/about/resources/script.js" />
+        <option value="$PROJECT_DIR$/index/index.css" />
+        <option value="$PROJECT_DIR$/May_WAP/about/resources/css/about.css" />
+        <option value="$PROJECT_DIR$/index/style.css" />
+        <option value="$PROJECT_DIR$/May_WAP/about/resources/css/resumestyle.css" />
+        <option value="$PROJECT_DIR$/May_WAP/about/resources/css/resume.css" />
+        <option value="$PROJECT_DIR$/May_WAP/blog/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/May_WAP/about/about.html" />
         <option value="$PROJECT_DIR$/May_WAP/projects/projects.html" />
         <option value="$PROJECT_DIR$/May_WAP/books/books.html" />
+        <option value="$PROJECT_DIR$/May_WAP/about/about.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="37" />
-    <option name="y" value="202" />
-    <option name="width" value="960" />
-    <option name="height" value="546" />
+    <option name="y" value="91" />
+    <option name="width" value="1122" />
+    <option name="height" value="657" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -194,8 +206,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,6 +217,12 @@
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -224,6 +240,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,11 +262,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/May_WAP/about/resources" />
+      <recent name="$PROJECT_DIR$/May_WAP/about/resources/css" />
+      <recent name="$PROJECT_DIR$/May_WAP/about/resources/js" />
       <recent name="$PROJECT_DIR$/May_WAP/ajax/comparison" />
       <recent name="$PROJECT_DIR$/index" />
-      <recent name="$PROJECT_DIR$/May_WAP/closure" />
-      <recent name="$PROJECT_DIR$/May_WAP/layout" />
-      <recent name="$PROJECT_DIR$/May_WAP" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,6 +280,16 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MesfinFeleke.github.io/May_WAP/about/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -282,7 +310,8 @@
       <workItem from="1590460240300" duration="94606000" />
       <workItem from="1591585289303" duration="13380000" />
       <workItem from="1591665817816" duration="443000" />
-      <workItem from="1601783244570" duration="13640000" />
+      <workItem from="1601783244570" duration="15491000" />
+      <workItem from="1601844916590" duration="7339000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -316,13 +345,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215068000" />
+    <option name="totallyTimeSpent" value="224258000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="202" width="960" height="546" extended-state="1" />
+    <frame x="37" y="91" width="1122" height="657" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15277778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,7 +360,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -366,20 +395,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="added about me page" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/April_WAP/ascII/asciihtml.html" />
-    <entry file="file://$PROJECT_DIR$/May_WAP/forms/product/product.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/April_WAP/about/aboutme.html" />
-    <entry file="file://$PROJECT_DIR$/April_WAP/class/class.html" />
-    <entry file="file://$PROJECT_DIR$/April_WAP/Bubble/bubble.html" />
-    <entry file="file://$PROJECT_DIR$/May_WAP/account/mocha.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/April_WAP/layout/layout.html" />
     <entry file="file://$PROJECT_DIR$/May_WAP/closure/functions/function.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -413,13 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
@@ -577,24 +585,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="1829" selection-start-line="1829" selection-end-line="1829" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index/footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="92" column="10" selection-start-line="92" selection-start-column="10" selection-end-line="92" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -605,34 +599,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/homework.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="70" lean-forward="true" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/data.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/css/resumestyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="10134" column="1" selection-start-line="10134" selection-start-column="1" selection-end-line="10134" selection-end-column="1" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#36523#36778#2" expanded="true" />
+            <element signature="e#37469#37643#1" expanded="true" />
+            <element signature="e#37685#37940#1" expanded="true" />
+            <element signature="e#40619#40933#2" expanded="true" />
+            <element signature="e#41636#41810#1" expanded="true" />
+            <element signature="e#41852#42166#1" expanded="true" />
+            <element signature="e#76312#76520#2" expanded="true" />
+            <element signature="e#76779#76936#2" expanded="true" />
+            <element signature="e#77394#77550#2" expanded="true" />
+            <element signature="e#78938#79112#1" expanded="true" />
+            <element signature="e#95235#95492#2" expanded="true" />
+            <element signature="e#96518#96781#2" expanded="true" />
+            <element signature="e#133221#133417#2" expanded="true" />
+            <element signature="e#133474#133671#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/resources/css/resume.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/projects/projects.html">
+    <entry file="file://$PROJECT_DIR$/May_WAP/blog/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="31" />
+        <state relative-caret-position="119">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/books/books.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="69" column="10" selection-start-line="69" selection-start-column="10" selection-end-line="69" selection-end-column="10" />
+        <state relative-caret-position="315">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/projects/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="23" column="47" lean-forward="true" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
         </state>
       </provider>
     </entry>

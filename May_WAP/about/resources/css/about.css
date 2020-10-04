@@ -51,8 +51,9 @@ a{
 }
 
 a:hover, a:active {
-    background-color: red;
+    background-color: lightblue;
 }
+
 .validation{
 
     margin-top:100px;
