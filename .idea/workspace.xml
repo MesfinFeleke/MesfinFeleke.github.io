@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/May_WAP/about/resources/css/resume.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May_WAP/about/resources/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May_WAP/blog/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/css/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/images/lionking3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/lionking4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/mulan1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/mulan2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/shrek1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/about/images/shrek2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/about/resources/images/shrek2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/books/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/books/books.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/May_WAP/projects/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/May_WAP/projects/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="aa1e1e0e-70e8-4164-88bb-f7b0f89ce490" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/May_WAP/blog/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="555">
+              <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -69,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            <state relative-caret-position="72">
+              <caret line="46" selection-start-line="46" selection-end-line="64" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -186,11 +166,11 @@
         <option value="$PROJECT_DIR$/index/style.css" />
         <option value="$PROJECT_DIR$/May_WAP/about/resources/css/resumestyle.css" />
         <option value="$PROJECT_DIR$/May_WAP/about/resources/css/resume.css" />
-        <option value="$PROJECT_DIR$/May_WAP/blog/blog.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/May_WAP/projects/projects.html" />
         <option value="$PROJECT_DIR$/May_WAP/books/books.html" />
         <option value="$PROJECT_DIR$/May_WAP/about/about.html" />
+        <option value="$PROJECT_DIR$/May_WAP/blog/blog.html" />
       </list>
     </option>
   </component>
@@ -223,6 +203,12 @@
               <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MesfinFeleke.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="May_WAP" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MesfinFeleke.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -311,7 +297,7 @@
       <workItem from="1591585289303" duration="13380000" />
       <workItem from="1591665817816" duration="443000" />
       <workItem from="1601783244570" duration="15491000" />
-      <workItem from="1601844916590" duration="7339000" />
+      <workItem from="1601844916590" duration="7771000" />
     </task>
     <task id="LOCAL-00001" summary="added about me page">
       <created>1587519713623</created>
@@ -345,7 +331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224258000" />
+    <option name="totallyTimeSpent" value="224690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="91" width="1122" height="657" extended-state="0" />
@@ -667,13 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/May_WAP/blog/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/books/books.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -697,8 +676,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/May_WAP/about/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        <state relative-caret-position="72">
+          <caret line="46" selection-start-line="46" selection-end-line="64" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/May_WAP/blog/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="14" lean-forward="true" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
         </state>
       </provider>
     </entry>
