@@ -82,3 +82,13 @@ footer {
 .progress-bar {
     background-color: #16a085;
 }
+.university {
+    display: flex;
+    align-items: center;
+}
+
+.university-logo {
+    width: 50px;
+    height: auto;
+    margin-right: 15px;
+}
