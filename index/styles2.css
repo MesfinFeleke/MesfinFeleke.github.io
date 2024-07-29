@@ -80,7 +80,7 @@ footer {
 }
 
 .progress-bar {
-    background-color: #16a085;
+    background-color: #a06416;
 }
 .university {
     display: flex;
@@ -92,3 +92,15 @@ footer {
     height: auto;
     margin-right: 10px;
 }
+.technologies {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.tech-logo {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+}
+
